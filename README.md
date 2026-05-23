@@ -117,3 +117,10 @@ I enjoy:
 </a>
 
 </p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashita72/yashita72/main/images/breakout-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashita72/yashita72/main/images/breakout-light.svg">
+    <img alt="Breakout Game" src="https://raw.githubusercontent.com/yashita72/yashita72/main/images/breakout-light.svg">
+  </picture>
+</p>
