@@ -25,6 +25,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINK)
+
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
 <!--
 **yashita72/yashita72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
