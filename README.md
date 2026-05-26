@@ -1,4 +1,4 @@
-## Hi there, I'm Yashita Gaur 🌸 <img width="90px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWY1bmFrdWVyd3c0YXAxYnQwazc1MTMxendtM2k1bnB0Z251Ymh1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dRk36UfCgXgblG6LHv/giphy.gif" />
+## Hi there, I'm Yashita Gaur  <img width="90px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWY1bmFrdWVyd3c0YXAxYnQwazc1MTMxendtM2k1bnB0Z251Ymh1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dRk36UfCgXgblG6LHv/giphy.gif" />
 
 <div>
   <a href="https://git.io/typing-svg">
@@ -22,24 +22,24 @@
 
 ---
 
-# 🌷 About Me
+#  About Me
 
 <img align="right" width="260px" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 
-Helloo 🌸  
-I’m Yashi, an AI & Data Science student who loves exploring machine learning, data science,doing data analyss and problem solving. Currently learning DSA in Java & Python while building projects to improve my development and AI skills ✨
+Helloo
+I’m Yashi, an AI & Data Science student who loves exploring machine learning, data science,doing data analyss and problem solving. Currently learning DSA in Java & Python while building projects to improve my development and AI skills 
 
 I enjoy:
-- 🤖 Exploring AI/ML  and Deep learning concepts
-- 💻 Solving coding problems for DSA in Java
-- 📊 Working on data science and data analyst projects
-- 🌸 Learning new technologies daily in this fast imporving generation
+-  Exploring AI/ML  and Deep learning concepts
+-  Solving coding problems for DSA in Java
+-  Working on data science and data analyst projects
+- Learning new technologies daily in this fast imporving generation
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 ### 
-🌸 Languages
+Languages
 
 ![Java](https://img.shields.io/badge/Java-da70d6?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-ff69b4?style=for-the-badge&logo=python&logoColor=white) 
@@ -48,7 +48,7 @@ I enjoy:
 ![R](https://img.shields.io/badge/R-dc84f3?style=for-the-badge&logo=postgresql&logoColor=white)
 ---
 
-### 🤖 AI / ML / Deep Learning
+###  AI / ML / Deep Learning
 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-da70d6?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-ff69b4?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -58,7 +58,7 @@ I enjoy:
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-f8c8ff?style=for-the-badge&logo=huggingface&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-d8b4fe?style=for-the-badge&logo=python&logoColor=white)
 
-### 📊 Data Science Libraries
+###  Data Science 
 
 ![NumPy](https://img.shields.io/badge/NumPy-da70d6?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-ff69b4?style=for-the-badge&logo=pandas&logoColor=white)
@@ -69,7 +69,7 @@ I enjoy:
 ![Jupyter](https://img.shields.io/badge/Jupyter-d8b4fe?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-f3c4ff?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-### 📈 Data Analytics Tools
+###  Data Analytics Tools
 
 ![Excel](https://img.shields.io/badge/Excel-da70d6?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-ff69b4?style=for-the-badge&logo=powerbi&logoColor=white)
@@ -79,7 +79,7 @@ I enjoy:
 ![NumPy](https://img.shields.io/badge/NumPy-f8c8ff?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-d8b4fe?style=for-the-badge&logo=plotly&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-f3c4ff?style=for-the-badge&logo=jupyter&logoColor=white)
-### 🛠 Tools
+###  Tools
 
 ![Git](https://img.shields.io/badge/Git-da70d6?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white)
@@ -87,7 +87,7 @@ I enjoy:
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <div align="center">
 
@@ -101,16 +101,16 @@ I enjoy:
 
 ---
 
-# 🌟 Current Focus
+#  Current Focus
 
-- 🌸 Learning DSA in Java & Python
-- 🤖 Exploring AI/ML & Deep Learning
-- 📊 Building Data Science Projects
-- 💅 Improving Development Skills Daily
+- Learning DSA in Java & Python
+-  Exploring AI/ML & Deep Learning
+-  Building Data Science Projects
+- Improving Development Skills Daily
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 <p align="center">
 
