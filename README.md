@@ -5,13 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&vCenter=true&width=650&lines=AI+%26+Data+Science+Student+%F0%9F%92%96;Java+%7C+Python+%7C+DSA+%F0%9F%8C%B8;Learning+Machine+Learning+%F0%9F%AA%90;Building+Cute+Projects+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </div>
-
 <br>
-
-<p align="center">
-  <img src="https://github.com/yashita72/yashita72/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
-</p>
-
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-yashita72-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashita72)
@@ -127,10 +121,4 @@ Languages
 </a>
 
 </p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashita72/yashita72/main/images/breakout-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashita72/yashita72/main/images/breakout-light.svg">
-    <img alt="Breakout Game" src="https://raw.githubusercontent.com/yashita72/yashita72/main/images/breakout-light.svg">
-  </picture>
-</p>
+
