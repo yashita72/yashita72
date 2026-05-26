@@ -15,9 +15,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-yashita72-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashita72)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yashita_Gaur-da70d6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashita-gaur)
-
 [![Email](https://img.shields.io/badge/Gmail-yashitagaur09%40gmail.com-ffb6c1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashitagaur09@gmail.com)
 
 </div>
@@ -50,15 +48,15 @@ I enjoy:
 ![R](https://img.shields.io/badge/R-dc84f3?style=for-the-badge&logo=postgresql&logoColor=white)
 ---
 
-### 🤖 AI/ML Libraries
+### 🤖 AI / ML / Deep Learning
 
-![NumPy](https://img.shields.io/badge/NumPy-da70d6?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-ff69b4?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffb6c1?style=for-the-badge&logo=plotly&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-dc84f3?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-e6a8ff?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-f8c8ff?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-d8b4fe?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-da70d6?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ff69b4?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-ffb6c1?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-dc84f3?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-e6a8ff?style=for-the-badge&logo=opencv&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-f8c8ff?style=for-the-badge&logo=huggingface&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-d8b4fe?style=for-the-badge&logo=python&logoColor=white)
 
 ### 📊 Data Science Libraries
 
@@ -70,6 +68,17 @@ I enjoy:
 ![SciPy](https://img.shields.io/badge/SciPy-f8c8ff?style=for-the-badge&logo=scipy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-d8b4fe?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-f3c4ff?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+### 📈 Data Analytics Tools
+
+![Excel](https://img.shields.io/badge/Excel-da70d6?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-ff69b4?style=for-the-badge&logo=powerbi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-ffb6c1?style=for-the-badge&logo=tableau&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-dc84f3?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-e6a8ff?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-f8c8ff?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-d8b4fe?style=for-the-badge&logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-f3c4ff?style=for-the-badge&logo=jupyter&logoColor=white)
 ### 🛠 Tools
 
 ![Git](https://img.shields.io/badge/Git-da70d6?style=for-the-badge&logo=git&logoColor=white)
