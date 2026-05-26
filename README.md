@@ -1,4 +1,4 @@
-## Hi there, I'm Yashi 🌸 <img width="90px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWY1bmFrdWVyd3c0YXAxYnQwazc1MTMxendtM2k1bnB0Z251Ymh1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dRk36UfCgXgblG6LHv/giphy.gif" />
+## Hi there, I'm Yashita Gaur 🌸 <img width="90px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWY1bmFrdWVyd3c0YXAxYnQwazc1MTMxendtM2k1bnB0Z251Ymh1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dRk36UfCgXgblG6LHv/giphy.gif" />
 
 <div>
   <a href="https://git.io/typing-svg">
@@ -29,28 +29,25 @@
 <img align="right" width="260px" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 
 Helloo 🌸  
-I’m Yashi, an AI & Data Science student who loves exploring machine learning, data science and problem solving. Currently learning DSA in Java & Python while building projects to improve my development and AI skills ✨
+I’m Yashi, an AI & Data Science student who loves exploring machine learning, data science,doing data analyss and problem solving. Currently learning DSA in Java & Python while building projects to improve my development and AI skills ✨
 
 I enjoy:
-- 🤖 Exploring AI/ML concepts
-- 💻 Solving coding problems
-- 📊 Working on data science projects
-- 🌸 Learning new technologies daily
+- 🤖 Exploring AI/ML  and Deep learning concepts
+- 💻 Solving coding problems for DSA in Java
+- 📊 Working on data science and data analyst projects
+- 🌸 Learning new technologies daily in this fast imporving generation
 
 ---
 
 # 💻 Tech Stack
+### 
+🌸 Languages
 
-### 🌸 Languages
-
-![Java](https://img.shields.io/badge/Java-da70d6?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-ff69b4?style=for-the-badge&logo=python&logoColor=white)
-
-![C](https://img.shields.io/badge/C-ffb6c1?style=for-the-badge&logo=c&logoColor=white)
-
+![Java](https://img.shields.io/badge/Java-da70d6?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-ff69b4?style=for-the-badge&logo=python&logoColor=white) 
+![C](https://img.shields.io/badge/C-ffb6c1?style=for-the-badge&logo=c&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-dc84f3?style=for-the-badge&logo=postgresql&logoColor=white)
-
+![R](https://img.shields.io/badge/SQL-dc84f3?style=for-the-badge&logo=postgresql&logoColor=white)
 ---
 
 ### 🤖 AI / ML
