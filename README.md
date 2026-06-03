@@ -22,9 +22,13 @@
 ---
 
 # 👩‍💻 About Me
-
-<img align="center" width="260px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWxxOG1vYjk2MHF2Y2F1d2NoZWRnOXVobTFxNXFtajFqMjBpMTcwdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Rbt3HJ6pSpyco/giphy.gif/">
-
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/Rbt3HJ6pSpyco/giphy.gif"
+    width="260"
+    alt="Shinchan GIF"
+  />
+</p>
 
 Helloo
 I’m Yashi, an AI & Data Science student who loves exploring machine learning, data science,doing data analyss and problem solving. Currently learning DSA in Java & Python while building projects to improve my development and AI skills 
