@@ -40,14 +40,13 @@ I enjoy:
 - Learning new technologies daily in this fast imporving generation
 
 ---
-
 #  Tech Stack
 <p align="center">
   <img
     src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M3Mxbnh2d29iYTZrZWxkYnpzenFmeGh3ZTBhazJicWpkZmdvOGlxOCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/4xN0HeXE9lKVW6h3vw/giphy.gif"
     width="350"
 
- ### 
+ ## 
 Languages
 
 ![Java](https://img.shields.io/badge/Java-da70d6?style=for-the-badge&logo=openjdk&logoColor=white) 
