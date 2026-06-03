@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTR0cTVtNG5heWdzenRqdnJub2Y5NTFwdjE1cXZ6aWN4Z29iY2gwZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUNda1aXN8zSrNartK/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTR0cTVtNG5heWdzenRqdnJub2Y5NTFwdjE1cXZ6aWN4Z29iY2gwZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUNda1aXN8zSrNartK/giphy.gif" width="200" />
 </p>
 <div>
   <a href="https://git.io/typing-svg">
