@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/m9YZVin3cgIlPQzE2A/giphy.gif" width="350" />
+  <img src="https://media.giphy.com/media/m9YZVin3cgIlPQzE2A/giphy.gi" width="350" />
 </p>
 <div>
   <a href="https://git.io/typing-svg">
