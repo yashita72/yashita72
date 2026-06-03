@@ -24,7 +24,7 @@
 # 👩‍💻 About Me
 <p align="center">
   <img
-    src="https://media.giphy.com/media/Rbt3HJ6pSpyco/giphy.gif"
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamc1YzRkOHRsc3IxZGZpOXdhbjY4djdtN2NqOGpibHd1dGJuZW5uYSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/JmLALWLGRRkczI0T2a/giphy.gif"
     width="350"
     
   
