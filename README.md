@@ -1,9 +1,10 @@
-## Hi there, I'm Yashita Gaur  <img width="90px" 
+<h1 align="center">
+  Hi there, I'm Yashita Gaur 👋
+</h1>
+
 <p align="center">
-  <imgsrc="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTR0cTVtNG5heWdzenRqdnJub2Y5NTFwdjE1cXZ6aWN4Z29iY2gwZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUNda1aXN8zSrNartK/giphy.gif"width="350"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTR0cTVtNG5heWdzenRqdnJub2Y5NTFwdjE1cXZ6aWN4Z29iY2gwZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUNda1aXN8zSrNartK/giphy.gif" width="100" />
 </p>
-
-
 <div>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&vCenter=true&width=650&lines=AI+%26+Data+Science+Student+%F0%9F%92%96;Java+%7C+Python+%7C+DSA+%F0%9F%8C%B8;Learning+Machine+Learning+%F0%9F%AA%90;Building+Cute+Projects+%E2%9C%A8" alt="Typing SVG" />
