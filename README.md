@@ -27,7 +27,7 @@
     src="https://media.giphy.com/media/Rbt3HJ6pSpyco/giphy.gif"
     width="350"
     
-  />
+  
 </p>
 
 Helloo
