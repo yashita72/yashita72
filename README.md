@@ -1,4 +1,4 @@
-## Hi there, I'm Yashita Gaur  <img width="90px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWY1bmFrdWVyd3c0YXAxYnQwazc1MTMxendtM2k1bnB0Z251Ymh1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dRk36UfCgXgblG6LHv/giphy.gif" />
+## Hi there, I'm Yashita Gaur  <img width="90px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTR0cTVtNG5heWdzenRqdnJub2Y5NTFwdjE1cXZ6aWN4Z29iY2gwZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUNda1aXN8zSrNartK/giphy.gif" />
 
 <div>
   <a href="https://git.io/typing-svg">
