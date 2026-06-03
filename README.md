@@ -24,7 +24,7 @@
 # 👩‍💻 About Me
 <p align="center">
   <img
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamc1YzRkOHRsc3IxZGZpOXdhbjY4djdtN2NqOGpibHd1dGJuZW5uYSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/JmLALWLGRRkczI0T2a/giphy.gif"
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGo5aXRuNTdic2c0djltaDZ2M3pjMjA1cmt1bnB5a2o4eXZwM3Z4aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4TmxH7ZMn1aYE/giphy.gif"
     width="350"
     
   
