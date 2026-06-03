@@ -21,9 +21,10 @@
 
 ---
 
-#  About Me
+# 👩‍💻 About Me
 
-<img align="right" width="260px" src="[https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG1obTMwNWw0NjZldGFtcWpvNTZ0aDJ5bnBhZ2R1aTlhdXBpZmV0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif)" />
+<img align="right" width="260px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG1obTMwNWw0NjZldGFtcWpvNTZ0aDJ5bnBhZ2R1aTlhdXBpZmV0NiZlcD12MV9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" />
+
 
 Helloo
 I’m Yashi, an AI & Data Science student who loves exploring machine learning, data science,doing data analyss and problem solving. Currently learning DSA in Java & Python while building projects to improve my development and AI skills 
