@@ -44,7 +44,7 @@ I enjoy:
 #  Tech Stack
 <p align="center">
   <img
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGo5aXRuNTdic2c0djltaDZ2M3pjMjA1cmt1bnB5a2o4eXZwM3Z4aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4TmxH7ZMn1aYE/giphy.gif"
+    src=""
     width="350"
 
  ### 
