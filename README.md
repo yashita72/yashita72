@@ -25,8 +25,8 @@
 <p align="center">
   <img
     src="https://media.giphy.com/media/Rbt3HJ6pSpyco/giphy.gif"
-    width="260"
-    alt="Shinchan GIF"
+    width="350"
+    
   />
 </p>
 
