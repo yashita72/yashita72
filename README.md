@@ -43,7 +43,7 @@ I enjoy:
 #  Tech Stack
 <p align="center">
   <img
-    src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M3Mxbnh2d29iYTZrZWxkYnpzenFmeGh3ZTBhazJicWpkZmdvOGlxOCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/4xN0HeXE9lKVW6h3vw/giphy.gif"
+    src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z2FkZ3kwZDNtOGg4MWhsdGxpZnBsZGp5OW1ldHk2ejloemRmOG13eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/oz45ELYgMoYVsZqmor/giphy.gif"
     width="350"
 
  ## 
