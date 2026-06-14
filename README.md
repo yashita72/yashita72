@@ -99,11 +99,9 @@ Languages
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=yashita72&show_icons=true&theme=radical)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yashita72&theme=radical)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashita72&layout=compact&theme=radical)
 
 </div>
 
