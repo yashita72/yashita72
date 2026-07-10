@@ -31,6 +31,25 @@ Currently, I'm focused on strengthening my problem-solving skills through DSA wh
 - DSA (Java & Python)
 
 ---
+## 🤖 Machine Learning Projects
+
+- 🔹 [VisionMind-AI](https://github.com/yashita72/VisionMind-AI)
+- 🔹 [AI Virtual Mouse](https://github.com/yashita72/AI-Virtual-Mouse)
+- 🔹 [Face Emotion Detection](https://github.com/yashita72/Face-Emotion-Detection)
+
+---
+
+## 📊 Data Analysis Projects
+
+- 🔹 [Netflix Data Analysis](https://github.com/yashita72/Netflix-Analysis)
+- 🔹 [Sales Dashboard](https://github.com/yashita72/Sales-Dashboard)
+
+---
+
+## 🌐 Web Development
+
+- 🔹 [Interior Design Website](https://github.com/YOUR_USERNAME/Interior-Website)
+- 🔹 [Portfolio Website](https://github.com/YOUR_USERNAME/Portfolio)
 
 ## Featured Projects
 
