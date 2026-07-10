@@ -41,7 +41,7 @@ Currently, I'm focused on strengthening my problem-solving skills through DSA wh
 
 ## 📊 Data Analysis Projects
 
-- 🔹 [Netflix Data Analysis](https://github.com/yashita72/Netflix-Analysis)
+- 🔹 [Mutual Fund Analysis](https://github.com/yashita72/Netflix-Analysis)
 - 🔹 [Sales Dashboard](https://github.com/yashita72/Sales-Dashboard)
 
 ---
