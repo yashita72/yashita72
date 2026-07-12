@@ -118,21 +118,7 @@ Hand gesture controlled virtual mouse using Computer Vision.
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/yashita-gaur">
-LinkedIn
-</a>
-
-•
-
-<a href="mailto:yashitagaur09@gmail.com">
-Email
-</a>
-
-•
-
-<a href="https://github.com/yashita72">
-GitHub
-</a>
+<a href="https://www.linkedin.com/in/yashita-gaur">LinkedIn</a><a href="mailto:yashitagaur09@gmail.com">Email</a><a href="https://github.com/yashita72">GitHub</a>
 
 </p>
 
