@@ -39,7 +39,7 @@ Currently, I'm focused on strengthening my problem-solving skills through DSA wh
 
 ## 📊 Data Analysis Projects
 
-- 🔹 [Mutual Fund Analysis](https://github.com/yashita72/Netflix-Analysis)🔹 [Delolite-Australia-Data-Analytics-Job-Simulation](https://github.com/yashita72/Deloitte-Australia-Data-Analytics-Job-Simulation.git)
+- 🔹 [Mutual Fund Analysis](https://github.com/yashita72/Netflix-Analysis)🔹 [Delolite-Australia-Data-Analytics-Job-Simulation](https://github.com/yashita72/Deloitte-Australia-Data-Analytics-Job-Simulation.git))🔹[Sales-Data-Analysis-and-Reporting-Project-using-PowerBi](https://github.com/yashita72/Sales-Data-Analysis-and-Reporting-Project-using-PowerBi-.git)
 
 ---
 
