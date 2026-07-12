@@ -33,23 +33,19 @@ Currently, I'm focused on strengthening my problem-solving skills through DSA wh
 ---
 ## 🤖 Machine Learning Projects
 
-- 🔹 [VisionMind-AI](https://github.com/yashita72/VisionMind-AI)
-- 🔹 [AI Virtual Mouse](https://github.com/yashita72/AI-Virtual-Mouse)
-- 🔹 [Face Emotion Detection](https://github.com/yashita72/Face-Emotion-Detection)
+- 🔹 [VisionMind-AI](https://github.com/yashita72/VisionMind-AI)🔹 [AI Virtual Mouse](https://github.com/yashita72/AI-Virtual-Mouse) 🔹 [Face Emotion Detection](https://github.com/yashita72/Face-Emotion-Detection)
 
 ---
 
 ## 📊 Data Analysis Projects
 
-- 🔹 [Mutual Fund Analysis](https://github.com/yashita72/Netflix-Analysis)
-- 🔹 [Delolite-Australia-Data-Analytics-Job-Simulation](https://github.com/yashita72/Deloitte-Australia-Data-Analytics-Job-Simulation.git)
+- 🔹 [Mutual Fund Analysis](https://github.com/yashita72/Netflix-Analysis)🔹 [Delolite-Australia-Data-Analytics-Job-Simulation](https://github.com/yashita72/Deloitte-Australia-Data-Analytics-Job-Simulation.git)
 
 ---
 
 ## 🌐 Web Development
 
-- 🔹 [Interior Design Website](https://github.com//Interior-Website)
-- 🔹 [Portfolio Website](https://github.com/YOUR_USERNAME/Portfolio)
+- 🔹 [Interior Design Website](https://github.com/yashita72/Space-Edge-Design.git) 
 
 ## Featured Projects
 
