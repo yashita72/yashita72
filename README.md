@@ -28,7 +28,7 @@ Currently, I'm focused on strengthening my problem-solving skills through DSA wh
 - Computer Vision
 - Machine Learning
 - Data Science
-- DSA (Java & Python)
+- DSA ( Python)
 
 ---
 ## 🤖 Machine Learning Projects
