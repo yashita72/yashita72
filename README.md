@@ -42,13 +42,13 @@ Currently, I'm focused on strengthening my problem-solving skills through DSA wh
 ## 📊 Data Analysis Projects
 
 - 🔹 [Mutual Fund Analysis](https://github.com/yashita72/Netflix-Analysis)
-- 🔹 [Sales Dashboard](https://github.com/yashita72/Sales-Dashboard)
+- 🔹 [Delolite-Australia-Data-Analytics-Job-Simulation](https://github.com/yashita72/Deloitte-Australia-Data-Analytics-Job-Simulation.git)
 
 ---
 
 ## 🌐 Web Development
 
-- 🔹 [Interior Design Website](https://github.com/YOUR_USERNAME/Interior-Website)
+- 🔹 [Interior Design Website](https://github.com//Interior-Website)
 - 🔹 [Portfolio Website](https://github.com/YOUR_USERNAME/Portfolio)
 
 ## Featured Projects
