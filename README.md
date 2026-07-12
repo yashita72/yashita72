@@ -79,35 +79,31 @@ Hand gesture controlled virtual mouse using Computer Vision.
 
 ## Skills
 
-### Languages
+## 💻 Languages
 
-- Python
-- Java
-- C
-- SQL
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,mysql" />
+</p>
 
-### AI & Machine Learning
+## 🤖 AI & Machine Learning
 
-- OpenCV
-- Scikit-Learn
-- TensorFlow
-- Keras
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
+<p>
+  <img src="https://skillicons.dev/icons?i=opencv,tensorflow,sklearn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="48"/>
+</p>
 
-### Tools
+## 🛠️ Tools
 
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-- Power BI
-- Tableau
-
----
-
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="48"/>
+</p>
 ## GitHub Stats
 
 <p align="center">
