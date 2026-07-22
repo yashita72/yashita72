@@ -4,6 +4,7 @@
   <img src="https://media.giphy.com/media/m9YZVin3cgIlPQzE2A/giphy.gif" width="320">
 </p>
 
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1200&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Computer+Vision+Enthusiast;Machine+Learning+%7C+Data+Science;Building+Real+World+AI+Projects" />
