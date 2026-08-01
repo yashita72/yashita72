@@ -15,7 +15,7 @@
 
 ## About Me
 
-I'm a second-year B.Tech student specializing in Artificial Intelligence and Data Science.
+I'm a  B.Tech student specializing in Artificial Intelligence and Data Science.
 
 I'm passionate about building practical AI applications that solve real-world problems. My interests lie in Computer Vision, Machine Learning, Data Science and AI Engineering.
 
